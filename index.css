@@ -1,0 +1,91 @@
+table{border-collapse:collapse;
+}
+
+table td, table th{
+border: 1px solid #383737;
+padding: 8px;
+
+}
+
+tr:nth-child(2){background-color: #383737; 
+}
+
+table th{
+padding-top: 12px;
+text-align: left;
+}
+
+.day{color: white;
+    
+}
+
+.weeknd{color: rgb(243, 81, 81); 
+    
+}
+
+.month{
+color: rgb(0, 0, 0);
+background-color: rgb(59, 237, 178);
+
+}
+
+.next{color: #00000078;}
+
+.nextw{color: rgba(243, 81, 81, 0.418);
+   
+}
+
+.logo{
+float:right;
+width: 50px;
+height: 50px;
+padding:10px 600px 10px;
+background-color:#383737
+}
+
+main{
+    padding:150px 485px ;
+
+}
+
+.hh {
+    width: 50px;
+height: 50px;
+float:right;   
+padding:25px 650px 1px;
+background-color:#383737;
+}
+
+.hh> .butt{
+    color:rgb(59, 237, 178);
+    background-color:rgb(0, 0, 0);
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    border: #383737;
+    position:static;
+    float:left;
+    padding-left: 114px;
+    height: 25px;   
+}
+
+ .seh{
+    background-color:rgb(59, 237, 178);
+    border-radius: 5px 0px 0px 5px;
+    border:none;
+    position: absolute;
+    width: 105px;
+    height: 23px;
+  }
+
+  .harry{
+background-color: #383737;
+padding: 50px;
+ ;
+  }
+
+.har{
+    text-decoration: none;
+    color: rgb(59, 237, 178);
+    float:left
+
+}
